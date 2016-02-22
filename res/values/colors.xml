@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<!-- 灰色 -->
+	<color name="gray">#808080</color>
+	
+	<!-- 线条颜色 -->
+	<color name="line">#e5e5e5</color>
+	
+	<!-- 按钮颜色 -->    
+    <color name="btn_bg">#ff6600</color>
+    
+    <!-- 背景颜色 -->
+	<color name="color_bg">#EFEFF4</color>
+	
+	<!-- 文字颜色  -->
+	<color name="color_333">#333333</color>
+	<color name="color_666">#666666</color>
+	<color name="color_222">#222222</color>
+	<color name="color_bbb">#bbbbbb</color>
+	<color name="color_555">#555555</color>
+	<color name="color_777">#777777</color>
+	<color name="color_999">#999999</color>
+	
+	<color name="color_fff">#FFFFFF</color>
+	<color name="color_f8">#F8F8F8</color>
+	
+	<color name="color_red">#FF0000</color>
+	<color name="color_main">#ff6600</color>
+	<color name="color_64">#646464</color>
+	<color name="color_32">#323232</color>
+	<color name="color_a2">#a2a2a2</color>
+	
+</resources>

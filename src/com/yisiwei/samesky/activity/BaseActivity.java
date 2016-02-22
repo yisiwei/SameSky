@@ -1,15 +1,13 @@
-package com.yisiwei.samesky;
+package com.yisiwei.samesky.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends Activity {
+public class BaseActivity extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);
 	}
-
-
+	
 }
